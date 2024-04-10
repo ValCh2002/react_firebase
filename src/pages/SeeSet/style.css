@@ -1,0 +1,23 @@
+.seeset{
+      display: grid;
+      grid-template-columns: auto auto auto auto auto;
+      margin: 30px;
+      background-image: url('https://www.usatoday.com/gcdn/presto/2023/01/03/USAT/dba26ab9-095c-4e83-8962-150ae33e479c-GettyImages-1390699821.jpg?width=660&height=440&fit=crop&format=pjpg&auto=webp');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+}
+
+.seediv{
+      width: 200px;
+      height: 210px;
+      background: #0008;
+      margin: 50px;
+      color: #fff;
+      font-size: 20px;
+}
+
+h2{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 30px;
+      text-decoration:underline;
+}

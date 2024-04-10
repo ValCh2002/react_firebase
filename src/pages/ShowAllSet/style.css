@@ -1,0 +1,32 @@
+.setss {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      margin: 30px;
+      background-image: url('https://assets3.thrillist.com/v1/image/3130793/792x594/scale;webp=auto;jpeg_quality=60;progressive.jpg');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+
+}
+
+
+.setss div {
+      font-size: 20px;
+      width: 200px;
+      height: 200px;
+      background: #0007;
+      margin: 50px;
+      color: #fff;
+}
+
+.see {
+      color: white;
+      text-decoration: none;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.see:hover {
+      background: white;
+      color: black;
+      transition: 0.4s;
+      border-radius: 4px;
+}
